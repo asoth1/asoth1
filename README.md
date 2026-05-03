@@ -43,8 +43,8 @@ I like building projects that combine clear backend design with real-world data,
 ## GitHub Snapshot
 
 <p>
-  <img src="https://github-readme-stats.hackclub.dev/api?username=asoth1&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Andrew's GitHub stats" width="49%" />
-  <img src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=asoth1&layout=compact&theme=tokyonight&hide_border=true" alt="Andrew's top languages" width="41%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asoth1&theme=tokyonight" alt="Andrew's GitHub stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asoth1&theme=tokyonight" alt="Andrew's top languages" width="41%" />
 </p>
 
 ## Current Focus
